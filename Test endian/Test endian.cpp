@@ -5,7 +5,8 @@
 #include "stdio.h"
 
 
-int _tmain(int argc, _TCHAR* argv[])
+//int _tmain(int argc, _TCHAR* argv[])
+int main(void)
 {
 	short x = 1;
 	//char str;
