@@ -7,7 +7,7 @@ int main(void)
 	printf("x = %c\n", (char) x);
 	for(int i = 1; i < 50; ++i)
 	{
-		printf("symbol ¹%d = %c\n", i, (char) i);
+		printf("symbol %d = %c\n", i, (char) i);
 	}
 	getchar();
 	return 0;
